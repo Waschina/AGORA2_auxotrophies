@@ -18,7 +18,7 @@ see script `xml2rds.R`
 
 > A number of models from AGORA2 (v2.01) seem to be in an invalid SBML file format. In those cases, R-objects could not be created. The exact error messages from libSBML when trying to read the respective files is stored in the log file `errlog.txt`.
 
-### Predict auxotrophies for 
+### Predict auxotrophies
 
 Please see script `predict_auxotrophies_AGORA2.R`.
 
